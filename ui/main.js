@@ -17,6 +17,6 @@ button.onclick = function(){
       }  
     };
     //make the request
-    request.open('GET','http://http://amanmanit.imad.hasura-app.io/counter',true);
+    request.open('GET','http://amanmanit.imad.hasura-app.io/counter',true);
     request.send(null);
 };
